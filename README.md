@@ -1,2 +1,2 @@
-# gittraining
-to learn git
+Hi!!!
+Welcome to GITHUB repository
